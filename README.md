@@ -67,10 +67,10 @@ Hardware platform
 F450 quadcopter frame · 4× A2212 1000KV brushless motors · 4× 30A ESC · 3S 2200mAh LiPo · APM 2.8 flight controller (stabilization) · ESP32-WROOM-32 (sensor payload, independent of flight control)
 
 Team
-Member	Focus area
-Nischall S Haritas	
-Rishit Negi	
-Jeffrey Simon Chris	
-D Dharnesh	
-Theertha Santhosh	
+
+Nischall S Haritas,	
+Rishit Negi,	
+Jeffrey Simon Chris,
+D Dharnesh,	
+Theertha Santhosh,	
 Navya S N
