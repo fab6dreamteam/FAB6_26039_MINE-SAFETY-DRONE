@@ -2,7 +2,7 @@
 # AI-Powered Underground Mine Safety, Monitoring & Rescue System
 ## Electrical Design Documentation — Payload Avionics
 
-**Team:** FAB6 (SIH_CU_010) · **Platform:** F450 quadcopter · **Rev:** 1.0
+**Team:** FAB6 (142638) · **Platform:** F450 quadcopter 
 **Scope:** Sensor/compute payload electrical design. The flight stack (FC, ESCs, motors, RC link) is treated as an existing, separate electrical domain and appears only as a power source and a mass/current constraint.
 
 ---
