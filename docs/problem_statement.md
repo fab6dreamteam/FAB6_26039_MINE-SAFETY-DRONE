@@ -1,9 +1,5 @@
 # Problem Statement 26039
 
-> Paste the exact official text from the SIH portal into the sections below before this repo
-> goes public — the summary here is our own working paraphrase, not the verbatim submission text,
-> and judges may check it against the portal listing.
-
 **Title:** AI-Powered Underground Mine Safety, Monitoring and Rescue System
 **Organization:** Government of Jharkhand
 **Category:** Hardware
