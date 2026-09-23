@@ -6,13 +6,9 @@
 **Theme:** Smart Automation
 **Problem Statement ID:** 26039
 
-## Background (paraphrase — replace with official text)
+## Background 
 
-Underground mining remains one of the most hazardous industrial environments. Workers face risks
-from toxic and combustible gases, structural instability, poor visibility, and the difficulty of
-locating personnel quickly during an emergency. Conventional safety monitoring relies heavily on
-fixed sensors and manual inspection, both of which are slow to deploy into a zone that has just
-become unsafe.
+Jharkhand's underground coal mines face significant safety challenges, including toxic gas leaks,tunnel collapses, flooding, and poor visibility. During emergencies, rescue teams often lack real-time information about underground conditions, increasing risks and delaying response efforts.An intelligent robotic system capable of monitoring mine conditions, detecting hazards, and locating trapped workers can significantly improve mine safety and rescue operations while reducing risks to human rescuers.
 
 ## Major issues identified
 
