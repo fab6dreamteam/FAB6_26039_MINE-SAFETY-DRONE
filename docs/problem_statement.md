@@ -23,11 +23,11 @@ become unsafe.
 5. Communication loss between rescue teams and the surface
 6. Trapped or missing workers who are difficult to locate quickly after an incident
 
-## Expected solution (paraphrase — replace with official text)
+## Expected solution 
 
-A technology-enabled system capable of autonomous or semi-autonomous reconnaissance of
-underground mine environments, providing real-time hazard data (gas, structural, thermal) to
-rescue teams before human entry, and assisting in locating trapped or missing personnel.
+Develop an Al-powered mine rescue system consisting of a rugged ground rover or a compact aerial drone capable of operating in hazardous underground mining environments. The system should provide real-time monitoring of toxic gases, temperature, humidity, and structural conditions while transmitting live video and thermal imaging data to a surface control station.
+
+The rover and drone will assist rescue teams by exploring inaccessible areas, detecting hazards, locating trapped workers, and providing situational awareness during emergencies. The solution should improve mine safety, reduce risks to rescue personnel, and enable faster, more informed emergency response in underground mines
 
 ## Our solution — mapping to the expected solution
 
