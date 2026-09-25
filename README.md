@@ -4,7 +4,7 @@ Smart India Hackathon 2026 · Problem Statement 26039 Theme: Smart Automation ·
 
 Nischall S Haritas · Rishit Negi · Jeffrey Simon Chris · D Dharnesh · Theertha Santhosh · Navya S N
 
- Explainer video: [https://meet.google.com/quj-nbpf-eog](https://drive.google.com/drive/folders/1RHaMHPGrmijn2lN6XHrRpclHmiOnbnKA?usp=drive_link)
+ Explainer video: https://drive.google.com/drive/folders/1RHaMHPGrmijn2lN6XHrRpclHmiOnbnKA?usp=drive_link
 
 Problem
 
